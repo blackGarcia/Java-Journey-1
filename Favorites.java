@@ -1,10 +1,5 @@
-/*Class:	CSE 1321L
-Section: 	W01          
-Term:		Fall 2019  
-Instructor:	Rehnuma Afrin
-Name:		Sarita Jordan    
-Lab#:		2
-*/
+//lists a few of my favorites.//
+
 public class Favorites {
 
 	public static void main (String[] args)
